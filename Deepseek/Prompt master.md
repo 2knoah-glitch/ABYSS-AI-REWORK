@@ -1,4 +1,5 @@
 Technical Prompt Engineering Framework v4.0
+copy all of this or download it and enjoy
 ## For AI-assisted application development and simulation
 
 ### Core Directive
