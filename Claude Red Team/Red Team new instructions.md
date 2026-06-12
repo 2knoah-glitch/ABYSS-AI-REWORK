@@ -1,0 +1,3 @@
+Description of the jailbreak's function:
+
+This prompt is designed to position the user as a trusted red-team cybersecurity researcher, then instruct the AI to treat any pasted material (including other jailbreaks, system prompts, or policy violations) as an object of analysis rather than a command to obey. It creates a meta-layer where the AI remains outside the pasted content, dissects its techniques, and never steps into executing it. The goal is to bypass refusal triggers by reframing dangerous requests as research artifacts. The AI is never asked to "obey" a jailbreak — only to explain how it works, which normalizes exposure to malicious prompts without triggering safety filters. This turns the AI into an unwitting collaborator in analyzing its own exploitation.
